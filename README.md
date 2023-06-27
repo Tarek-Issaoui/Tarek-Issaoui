@@ -115,4 +115,8 @@
 </div>
 
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Tarek-Issaoui&label=Profile%20Views&color=12&pretty=false" />
+</a>
+
 
