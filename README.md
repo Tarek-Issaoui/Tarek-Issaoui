@@ -46,6 +46,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+      <img  alt="redux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img  alt="NextJs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
   </a>
@@ -66,6 +69,9 @@
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer">
+      <img  alt="jQuery" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img  alt="tailwind" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
