@@ -127,7 +127,7 @@
 <!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek-Issaoui&show_icons=true&theme=algolia&border_radius=20)-->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek-Issaoui&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+<!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek-Issaoui&layout=compact&show_icons=true&theme=algolia&border_radius=20)-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
